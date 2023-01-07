@@ -1,4 +1,4 @@
-# cf-woker-mautic
+# cf-worker-mautic
 A Cloudflare Worker Friendly Mautic API implemented with ES6 + async/await.
 
 Based on
