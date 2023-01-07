@@ -18,7 +18,7 @@ $ npm install cf-worker-mautic
 
 ## Usage
 
-1. Import the class
+1. Import it
 
    ```javascript
    import MauticConnector from "node-mautic";
